@@ -1,0 +1,13 @@
+{
+    "duration": 14,
+    "player": "woman",
+    "monkType": "maleMonk",
+    "monks":
+    [
+        {
+            "time": 1,
+            "frequency": 1,
+            "speedY": [170]
+        }
+    ]
+}

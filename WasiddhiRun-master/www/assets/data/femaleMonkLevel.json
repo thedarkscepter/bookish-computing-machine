@@ -1,0 +1,30 @@
+{
+    "duration": 25,
+    "player": "woman",
+    "monkType": "femaleMonk",
+    "templeFrequency": 100,
+    "lotusFrequency": 100,
+    "monks":
+    [
+        {
+            "time": 1,
+            "frequency": 1.5,
+            "speedY": [100,110,150]
+        },
+        {
+            "time": 3,
+            "frequency": 1.5,
+            "speedY": [150,120,160]
+        },
+        {
+            "time": 7,
+            "frequency": 1,
+            "speedY": [150,200,210]   
+        },
+        {
+            "time": 10,
+            "frequency": 0.5,
+            "speedY": [230,250,100]
+        }
+    ]
+}

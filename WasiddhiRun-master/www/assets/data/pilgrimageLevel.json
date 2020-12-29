@@ -1,0 +1,35 @@
+{
+    "duration": 18,
+    "player": "woman",
+    "monkType": "pilgrimageMonk",
+    "templeFrequency": 2,
+    "lotusFrequency": 2,
+    "monks":
+    [
+        {
+            "time": 1,
+            "frequency": 1,
+            "speedY": [150]
+        },
+        {
+            "time": 2,
+            "frequency": 1,
+            "speedY": [150]
+        },
+        {
+            "time": 3,
+            "frequency": 1,
+            "speedY": [150]
+        },
+        {
+            "time": 4,
+            "frequency": 1,
+            "speedY": [150]
+        },
+        {
+            "time": 5,
+            "frequency": 1,
+            "speedY": [150]
+        }
+    ]
+}
